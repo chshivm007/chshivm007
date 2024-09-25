@@ -5,7 +5,7 @@
   </tr>
 </table>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=bluevoilet)
+![](https://komarev.com/ghpvc/?username=chshivm007&color=voilet)
 
 <!--
 **xalanq/xalanq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
